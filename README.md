@@ -25,11 +25,6 @@ A state-of-the-art handwritten digit recognition system using **ArtAug** (Artist
 - [Technical Details](#-technical-details)
 - [ArtAug Method](#-artaug-method)
 - [Model Performance](#-model-performance)
-- [API Documentation](#-api-documentation)
-- [Troubleshooting](#-troubleshooting)
-- [Future Improvements](#-future-improvements)
-- [Contributors](#-contributors)
-- [License](#-license)
 
 ---
 
@@ -605,7 +600,3 @@ Class 9: Precision=0.83, Recall=0.80, F1=0.81
 - Total: ~5 minutes on Colab CPU
 
 ---
-
-<p align="center">
-  Made with ❤️ for Computer Vision Assignment 2
-</p>
