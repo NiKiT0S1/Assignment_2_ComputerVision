@@ -3,9 +3,8 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-3.0.0-green.svg)](https://flask.palletsprojects.com/)
 [![LightGBM](https://img.shields.io/badge/LightGBM-4.1.0-yellow.svg)](https://lightgbm.readthedocs.io/)
-[![License](https://img.shields.io/badge/License-Academic-red.svg)]()
 
-**Assignment 2 - Computer Vision Course**  
+**Computer Vision Course**  
 **Astana IT University | November 2025**
 
 A state-of-the-art handwritten digit recognition system using **ArtAug** (Artistic Augmentation) for synthetic data generation and **LightGBM** for classification. The project demonstrates a complete ML pipeline from data synthesis to deployment with an interactive web application.
